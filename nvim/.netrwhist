@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/taher'
+let g:netrw_dirhist_4='/home/taher/FinalYearProject/gate-keeper/screens'
+let g:netrw_dirhist_3='/home/taher/.config/i3blocks'
+let g:netrw_dirhist_2='/home/taher/.config'
+let g:netrw_dirhist_1='/home/taher/.config/i3blocks'
+let g:netrw_dirhist_0='/'
+let g:netrw_dirhist_9='/home'
+let g:netrw_dirhist_8='/home/taher'
+let g:netrw_dirhist_7='/home/taher/Ummehani-photos'
+let g:netrw_dirhist_6='/home/taher/Pictures'

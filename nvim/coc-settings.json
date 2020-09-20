@@ -1,0 +1,48 @@
+{
+  "prettier.tslintIntegration": true,
+  "coc.preferences.formatOnSaveFiletypes": ["python","html","c","java","css","Markdown","javascript","javascriptreact","typescript","typescriptreact", "golang", "c++"],
+  "prettier.statusItemText": "",
+  "languageserver": {
+    "golang": {
+      "command": "gopls",
+      "rootPatterns": ["go.mod", ".vim/", ".git/", ".hg/"],
+      "filetypes": ["go"],
+      "initializationOptions": {
+        "usePlaceholders": true,
+        "completeUnimported": true
+      }
+    },
+  "ccls": {
+        "command": "ccls",
+        "filetypes": ["c", "cpp", "cuda", "objc", "objcpp"],
+        "rootPatterns": [".ccls-root", "compile_commands.json"],
+        "initializationOptions": {
+          "cache": {
+            "directory": ".ccls-cache"
+          },
+          "client": {
+            "snippetSupport": true
+          }
+        }
+      }
+  },
+  "html.autoClosingTags": true,
+  "html.filetypes": [
+    "html",
+    "handlebars",
+    "htmldjango",
+    "javascript",
+    "javascriptreact"
+  ],
+  "emmet.includeLanguages":{
+    "javascript":"javascriptreact"
+  },
+  // explorer
+  "explorer.width": 30,
+  "explorer.icon.enableNerdfont": true,
+  "explorer.previewAction.onHover": false,
+  "explorer.keyMappings": {
+    "<cr>": ["expandable?", "expand", "open"],
+    "v": "open:vsplit"
+  }
+}

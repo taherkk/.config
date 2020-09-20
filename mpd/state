@@ -1,0 +1,27 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 10
+time: 634.527000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Husain/Aahin_Walafatah_Ya_Hussain_Aahin_Wa_Kurbata_Ya_Hussain.mp3
+1:Husain/Ali_mere_aqa.m4a
+2:Husain/Anta_khair_ul_bashr.m4a
+3:Husain/Jhula_Asgar_ke_madar_jhulati_rahin.m4a
+4:Husain/Karbala_aakein_boli_yein_zainab.mp3
+5:Husain/Keheti_hai_sakina_mere_baba_ko_bulawo.m4a
+6:Husain/Khairul_Aname_Muhmmadun.mp3
+7:Husain/Kya_bataein_ke_zainab_ki_Kya_Shaan_hain.m4a
+8:Husain/Tanhai_mein_kaise_uthenga_akbar_ka_janaza_rehne_do.m4a
+9:Husain/Ya_Husaina_Par_Hame_Qurban_Che_Qurban_Che.m4a
+10:Husain/Rojo_biradar_husain_ne_rojo.mp3
+11:Husain/Haae_Mashki_Ko_Liye.mp3
+playlist_end

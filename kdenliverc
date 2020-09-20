@@ -1,0 +1,101 @@
+[KFileDialog Settings]
+Recent Files[$e]=Top Cello Covers of Popular Songs 2018 - Best Instrumental Cello Covers All Time.m4a,file:$HOME/torrents/Aquaman 2018 720p PROPER HD-TC HQ X264-SeeHD/Aquaman 2018 720p PROPER HD-TC HQ X264-SeeHD.mkv,file:$HOME/youtube-dl/Top Cello Covers of Popular Songs 2018 - Best Instrumental Cello Covers All Time.m4a
+Recent URLs[$e]=file:$HOME/torrents/Aquaman 2018 720p PROPER HD-TC HQ X264-SeeHD/
+
+[MainWindow]
+Height 768=743
+State=AAAA/wAAAAD9AAAAAQAAAAIAAAVSAAABJPwBAAAADPsAAAAYAG4AbwB0AGUAcwBfAHcAaQBkAGcAZQB0AAAAAAD/////AAAARgD////7AAAADgBsAGkAYgByAGEAcgB5AAAAAAD/////AAAAWAD////7AAAAGgBhAHUAZABpAG8AcwBwAGUAYwB0AHIAdQBtAAAAAAD/////AAAAYwD////7AAAAFgBwAHIAbwBqAGUAYwB0AF8AYgBpAG4BAAAAAAAAALMAAABYAP////wAAAC5AAAArwAAAKUA////+gAAAAABAAAAAvsAAAAYAGUAZgBmAGUAYwB0AF8AcwB0AGEAYwBrAQAAAAD/////AAAApQD////7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAEQA/////AAAAW4AAAF6AAAAugD////6AAAAAQEAAAAC+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAABfAP////sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAALoA/////AAAAu4AAAJkAAAB5QD////6AAAAAQEAAAAC+wAAABgAYwBsAGkAcABfAG0AbwBuAGkAdABvAHIBAAAAAP////8AAAFAAP////sAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAAD/////AAAB5QD////7AAAAGAB1AG4AZABvAF8AaABpAHMAdABvAHIAeQAAAAAA/////wAAAEYA////+wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABBwD////7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAACPAP////sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAACMAP////sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABJAD///8AAAVSAAABcQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIBAAABNv////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1366=1362
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/torrents/Aquaman 2018 720p PROPER HD-TC HQ X264-SeeHD/,$HOME/youtube-dl/,$HOME/Documents
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAADBgAAAAIAAAACAAAAZAAAAAEAAABPAAACawAAAAMBAQABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAMAAAJrAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAPoAAAAAeU=
+
+[capture]
+decklink_capturedevice=4294967295
+decklink_device_found=false
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+dvgrab_path=/usr/bin/dvgrab
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultaudioapp=/usr/bin/audacity
+defaultimageapp=/usr/bin/gimp
+defaultprojectfolder[$e]=$HOME/Documents
+encodethreads=2
+ffmpegpath[$e]=/usr/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+mltpath[$e]=/usr/share/mlt/profiles
+mltthreads=2
+rendererpath[$e]=/bin/melt
+
+[project]
+proxyextension=mkv
+proxyparams=-vf yadif,scale=960:-2 -qscale 3 -vcodec mjpeg -acodec pcm_s16le
+
+[sdl]
+audiobackend=sdl2_audio
+blackmagic_output_device=-1
+sdlAudioBackend=sdl2_audio
+
+[shuttle]
+shuttlebuttons=button0=monitor_pause
+
+[timeline]
+trackheight=59
+
+[unmanaged]
+current_profile=atsc_1080p_25
+default_profile=atsc_1080p_25
+defaultrescaleheight=180
+force_breeze=true
+monitor_audio=false
+producerslist=decklink,avformat,avformat-novalidate,sdl_image,framebuffer,ladspa.1047,ladspa.1050,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,blipflash,count,xml,xml-string,xml-nogl,pango,pixbuf,pgm,slowmotion,qimage,qtext,kdenlivetitle
+project_display_ratio=1.7777777777777777
+showeffectinfo=true
+widgetstyle=Default
+
+[version]
+version=18.12.0

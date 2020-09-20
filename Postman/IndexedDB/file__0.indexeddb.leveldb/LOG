@@ -1,0 +1,18 @@
+2020/02/23-22:47:05.724 62933 Reusing MANIFEST /home/taher/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/02/23-22:47:05.724 62933 Recovering log #10
+2020/02/23-22:47:05.725 62933 Reusing old log /home/taher/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000010.log 
+2020/02/23-22:47:19.657 62934 Current memtable full; waiting...
+2020/02/23-22:47:19.658 63154 Level-0 table #14: started
+2020/02/23-22:47:19.701 63154 Level-0 table #14: 2075 bytes OK
+2020/02/23-22:47:19.745 63154 Delete type=0 #10
+2020/02/23-22:47:19.746 63154 Level-0 table #16: started
+2020/02/23-22:47:19.746 63154 Level-0 table #16: 0 bytes OK
+2020/02/23-22:47:19.790 63154 Delete type=0 #13
+2020/02/23-22:47:19.791 63154 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 667 : 1
+2020/02/23-22:47:19.791 63154 Compacting 1@0 + 1@1 files
+2020/02/23-22:47:19.835 63154 Generated table #17@0: 538 keys, 9361 bytes
+2020/02/23-22:47:19.835 63154 Compacted 1@0 + 1@1 files => 9361 bytes
+2020/02/23-22:47:19.879 63154 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/02/23-22:47:19.879 63154 Delete type=2 #9
+2020/02/23-22:47:19.880 63154 Delete type=2 #14
+2020/02/23-22:47:19.880 63154 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 667 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
