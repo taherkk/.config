@@ -3099,3 +3099,200 @@ Sep 08 17:49 : exception: OutputThread could not get realtime scheduling, contin
 Sep 12 00:55 : player: played "Husain/Rojo_biradar_husain_ne_rojo.mp3"
 Sep 12 00:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Sep 12 00:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 19:31 : player: played "Husain/Rojo_biradar_husain_ne_rojo.mp3"
+Sep 20 19:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 19:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 21:58 : player: played "Husain/Rojo_biradar_husain_ne_rojo.mp3"
+Sep 20 22:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 22:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 17:09 : player: played "Husain/Rojo_biradar_husain_ne_rojo.mp3"
+Sep 22 17:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 17:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 09:42 : client: [0] opened from 127.0.0.1:60736
+Sep 25 10:01 : client: [1] opened from 127.0.0.1:60750
+Sep 25 10:01 : client: [1] closed
+Sep 25 10:22 : client: [0] closed
+Sep 25 10:22 : client: [2] opened from 127.0.0.1:60762
+Sep 25 10:22 : client: [2] closed
+Sep 25 10:22 : client: [3] opened from 127.0.0.1:60766
+Sep 25 10:22 : client: [3] closed
+Sep 25 10:22 : client: [4] opened from 127.0.0.1:60770
+Sep 25 10:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Format mov,mp4,m4a,3gp,3g2,mj2 detected only with low score of 1, misdetection possible!
+Sep 25 10:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Sep 25 10:22 : client: [4] closed
+Sep 25 10:22 : client: [5] opened from 127.0.0.1:60774
+Sep 25 10:23 : client: [5] closed
+Sep 25 10:23 : client: [6] opened from 127.0.0.1:60778
+Sep 25 11:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 11:31 : player: played "Husain/Kya_bataein_ke_zainab_ki_Kya_Shaan_hain.m4a"
+Sep 25 11:36 : player: played "Husain/Tanhai_mein_kaise_uthenga_akbar_ka_janaza_rehne_do.m4a"
+Sep 25 11:57 : client: [6] closed
+Oct 04 11:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 04 11:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 09:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 09:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 11 11:38 : player: played "Husain/Jhula_Asgar_ke_madar_jhulati_rahin.m4a"
+Oct 11 11:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 11 11:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 11 12:56 : player: played "Husain/Jhula_Asgar_ke_madar_jhulati_rahin.m4a"
+Oct 12 18:58 : update: added Madeh/Lab_pe_awsaaf_Shahe_kaun_o_Makan_rakhte_hain.m4a
+Oct 12 18:58 : update: added Madeh/Tujhe_Jab_Shahe_Behr_o_Bar.mp3
+Oct 12 18:58 : update: added Madeh/Biradar_tu_Nasihat_sun.m4a
+Oct 12 18:58 : update: added Madeh/Azizo_Suno_Dil_na_kaano_ne_dhalo.m4a
+Oct 12 18:58 : update: added Madeh/Talaal_Hilaal.mp3
+Oct 12 18:58 : update: added Madeh/Yaad_Maula_Ki_Har_Dum_Hai_Har_Aan_Hai.mp3
+Oct 12 18:58 : update: added Madeh/Manind_Andaleeb_(Version_2).mp3
+Oct 12 18:58 : update: added Madeh/Sukhan_gur_log_na_ae_dil_tu_matha_per_charawi_le.m4a
+Oct 12 18:58 : update: added Madeh/Allah_Taala_nu_hamd_to_kerje.m4a
+Oct 12 18:58 : update: added Madeh/Ajab_Taazgi_Aaj_Gulzaar.mp3
+Oct 12 18:58 : update: added Madeh/Dawat_Na_Gulshan_Ma_Rahisu_maula_na_sathe.m4a
+Oct 12 18:58 : update: added Madeh/Madad_Madad_(Version_2).mp3
+Oct 12 18:58 : update: added Madeh/Aalam_mein_yumno_khair_tumahre_qadam_se_hain.m4a
+Oct 12 18:58 : update: added Madeh/Tujhein_allah_taala_nae.mp3
+Oct 12 18:58 : update: added Madeh/Hai_Mufaddal_Mohammed_Khuda_Ki_Qasam.m4a
+Oct 12 18:58 : update: added Madeh/Saaqiyaan_Mehjabeen.mp3
+Oct 12 18:58 : update: added Madeh/Ae_shahe_aali_qadr.mp3
+Oct 12 18:58 : update: added Madeh/Ae_Maula_Teri_Ek_Nigah_Ae_Karam_(Version_1).mp3
+Oct 12 18:58 : update: added Madeh/Ae_dil_nasihat_sun_meri_dunya_ka_mat_tu_yaar_ho.m4a
+Oct 12 18:58 : update: added Madeh/Nipat_rakhi_ae_dil_Taqwa_Khuda_ni.m4a
+Oct 12 18:58 : update: added Madeh/Minnat_Karo_Inayat__soulful_madeh___Dawoodi_Bohra.m4a
+Oct 12 18:58 : update: added Madeh/Muskurate_raho_hamd_Karte_raho,_gungunate_raho_madeh_padte_raho.m4a
+Oct 12 18:58 : update: added Madeh/Likha_jo_shab_ko_wasf_tumhari_janab_ka.m4a
+Oct 12 18:58 : update: added Madeh/Ae_Allah_Na_Dai_Nabi_Na_Piyara.mp3
+Oct 12 18:58 : update: added Madeh/Ae_Maula_Mufaddal_Ae_Dail_Hussain.m4a
+Oct 12 18:58 : update: added Madeh/Dil_mein_Teri_Surat_hai_Burhanulhuda___huznun_azaa_wa_javanehi__rasaa_Dawood.mp3
+Oct 12 18:58 : update: added Madeh/Je_koi_khuda_na_naam_ni_maala_japa_kare.m4a
+Oct 12 18:58 : update: added Madeh/Chint_daiye_ne_Sambahlwala.m4a
+Oct 12 18:58 : update: added Madeh/Ajab_Quraan_ka_Hafiz_hain.m4a
+Oct 12 18:58 : update: added Madeh/Shukr_Sad_Shukr_ke_Chume.webm
+Oct 12 18:58 : update: added Madeh/Ahsin_Ela_Man_Asa_Aa_Ilaik_vJHqRM8jmjU.m4a
+Oct 12 18:58 : update: added Madeh/Yaad_Aati_Hai_Ehle_Wala_Ko.mp3
+Oct 12 18:58 : update: added Madeh/Ek_pal_tu_mat_khuda_ne_ae_banda_wisaarje.m4a
+Oct 12 18:58 : update: added Madeh/Tamanna_je_bashar_ni_yaha_baqa_che.m4a
+Oct 12 18:58 : update: added Madeh/Jeene_Me_Nahi_Lazzat_Maula.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 107 - Al Maun.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 55 - Ar Rahman.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 28 - Al Qasas.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 86 - At Tariq.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 103 - Al Asr.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 66 - At Tahrim.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 68 - Al Qalam.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 104 - Al Humazah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 82 - Al Infitar.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 109 - Al Kafirun.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 95 - At Tin.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 17 - Al Isra.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 47 - Muhammad.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 93 - Ad Duha.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 40 - Ghafir.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 34 - Saba.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 32 - As Sajdah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 38 - Sad.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 65 - At Talaq.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 16 - An Nahl.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 1 - Al Fatihah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 108 - Al Kawthar.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 70 - Al Maarij.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 9 - At Tawbah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 67 - Al Mulk.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 45 - Al Jathiyah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 110 - An Nasr.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 2 - Al Baqarah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 73 - Al Muzzammil.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 90 - Al Balad.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 78 - An Naba.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 75 - Al Qiyamah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 53 - An Najm.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 85 - Al Buruj.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 37 - As Saffat.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 91 - Ash-Shams.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 42 - Ash-Shura.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 27 - An Naml.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 26 - Ash Shuara.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 46 - Al Ahqaf.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 24 - An Nur.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 44 - Ad Dukhan.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 6 - Al Anam.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 36 - Ya Sin.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 102 - At Takathur.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 74 - Al Muddaththir.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 5 - Al Maidah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 8 - Al Anfal.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 100 - Al Adiyat.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 15 - Al Hijr.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 80 - Abasa.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 97 - Al Qadr.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 3 - Al Imran.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 12 - Yusuf.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 111 - Al Masad.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 92 - Al Layl.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 10 - Yunus.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 58 - Al Mujadilah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 33 - Al Ahzab.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 83 - Al Mutaffifin.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 77 - Al Mursalat.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 51 - Adh Dhariyat.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 21 - Al Anbiya.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 50 - Qaf.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 23 - Al Muminun.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 69 - Al Haqqah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 29 - Al Ankabut.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 7 - Al Araf.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 106 - Quraysh.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 76 - Al Insan or Ad Dahar.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 54 - Al Qamar.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 25 - Al Furqan.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 113 - Al Falaq.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 101 - Al Qariah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 19 - Maryam.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 72 - Al Jinn.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 39 - Az Zumar.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 71 - Nuh.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 31 - Luqman.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 20 - Ta Ha.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 57 - Al Hadid.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 81 - At-Takwir.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 112 - Al Ikhlas.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 105 - Al Fil.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 52 - At Tur.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 88 - Al Ghashiyah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 41 - Fussilat.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 79 - An Naziat.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 59 - Al Hashr.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 63 - Al Munafiqun.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 61 - As Saff.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 114 - An Nas.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 99 - Az-Zalzalah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 13 - Ar Rad.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 22 - Al Hajj.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 11 - Hud.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 89 - Al Fajr.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 87 - Al Ala.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 43 - Az Zukhruf.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 49 - Al Hujurat.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 14 - Ibrahim.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 64 - At Taghabun.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 96 - Al Alaq.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 56 - Al Waqiah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 94 - Ash Sharh.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 62 - Al Jumuah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 18 - Al Kahf.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 35 - Fatir.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 4 - An Nisa.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 60 - Al Mumtahanah.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 84 - Al Inshiqaq.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 30 - Ar Rum.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 48 - Al Fath.mp3
+Oct 12 18:58 : update: added Quran/Quran Chapter 98 - Al Bayyinah.mp3
+Oct 12 18:58 : update: added Husain/Rojo_biradar_husain_ne_rojo.mp3
+Oct 12 18:58 : update: added Husain/Kya_bataein_ke_zainab_ki_Kya_Shaan_hain.m4a
+Oct 12 18:58 : update: added Husain/Karbala_aakein_boli_yein_zainab.mp3
+Oct 12 18:58 : update: added Husain/Ali_mere_aqa.m4a
+Oct 12 18:58 : update: added Husain/Tanhai_mein_kaise_uthenga_akbar_ka_janaza_rehne_do.m4a
+Oct 12 18:58 : update: added Husain/Keheti_hai_sakina_mere_baba_ko_bulawo.m4a
+Oct 12 18:58 : update: added Husain/Khairul_Aname_Muhmmadun.mp3
+Oct 12 18:58 : update: added Husain/Anta_khair_ul_bashr.m4a
+Oct 12 18:59 : update: added Husain/Ya_Husaina_Par_Hame_Qurban_Che_Qurban_Che.m4a
+Oct 12 18:59 : update: added Husain/Jhula_Asgar_ke_madar_jhulati_rahin.m4a
+Oct 12 18:59 : update: added Husain/Haae_Mashki_Ko_Liye.mp3
+Oct 12 18:59 : update: added Husain/Aahin_Walafatah_Ya_Hussain_Aahin_Wa_Kurbata_Ya_Hussain.mp3

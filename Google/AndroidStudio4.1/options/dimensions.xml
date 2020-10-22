@@ -1,0 +1,11 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="1031" y="441" />
+    <location key="SettingsEditor.0.0.1366.768" x="178" y="-10" />
+    <location key="ide.config.custom.settings.0.0.1366.768" x="416" y="289" />
+    <location key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.1366.768" x="364" y="88" />
+    <size key="SettingsEditor.0.0.1366.768" width="1001" height="696" />
+    <size key="ide.config.custom.settings.0.0.1366.768" width="523" height="124" />
+    <size key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.1366.768" width="628" height="528" />
+  </component>
+</application>

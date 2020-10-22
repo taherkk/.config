@@ -1,0 +1,18 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="WelcomeScreen.Update">
+        <ActionSummary times="2" last="1602608675886" />
+      </entry>
+      <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
+        <ActionSummary times="1" last="1602607575936" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$4">
+        <ActionSummary times="1" last="1602607573641" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
+        <ActionSummary times="2" last="1602608668986" />
+      </entry>
+    </data>
+  </component>
+</application>

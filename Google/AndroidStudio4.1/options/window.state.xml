@@ -1,0 +1,25 @@
+<application>
+  <component name="WindowManager">
+    <layout>
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="276" y="33" width="804" height="620" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602608533812">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="276" y="33" width="804" height="620" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.768" timestamp="1602608533812" />
+    <state x="1033" y="468" key="WELCOME_SCREEN" timestamp="1602610380002">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="1033" y="468" key="WELCOME_SCREEN/0.0.1366.768" timestamp="1602610380002" />
+    <state x="0" y="0" width="1366" height="748" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602607447638" />
+    <state x="0" y="0" width="1366" height="748" key="com.android.tools.idea.avdmanager.AvdListDialog/1366.768" timestamp="1602607447640" />
+  </component>
+</application>
