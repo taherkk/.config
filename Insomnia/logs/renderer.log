@@ -1,0 +1,19 @@
+[2020-11-18 19:02:32.317] [info] [db] Initialized DB client
+[2020-11-18 19:02:32.597] [warn] Electron Security Warning (Insecure Content-Security-Policy) This renderer process has either no Content Security
+    Policy set or a policy with "unsafe-eval" enabled. This exposes users of
+    this app to unnecessary security risks.
+
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged.
+[2020-11-18 19:02:32.912] [info] [app] Waiting for migration to complete
+[2020-11-18 19:02:32.921] [info] [FileSystemDriver] Initialized in "/home/taher/.config/Insomnia/version-control"
+[2020-11-18 19:02:32.926] [info] [app] Waiting for migration to complete
+[2020-11-18 19:02:32.928] [info] [app] Waiting for migration to complete
+[2020-11-18 19:02:32.935] [info] [ga] Event Activity, Change, insomnia
+[2020-11-18 19:02:32.949] [info] [app] Waiting for migration to complete
+[2020-11-18 19:02:33.227] [info] [ga] Page /insomnia
+[2020-11-18 19:02:33.943] [info] [sync] Initialized
+[2020-11-18 19:02:38.439] [info] [toast] Received notification updated-2020.4.2
+[2020-11-18 19:03:15.272] [info] [ga] Event Modals, Show, RequestCreateModal

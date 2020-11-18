@@ -1,0 +1,15 @@
+[2020-11-18 19:02:17.824] [info] Running version 2020.4.2
+[2020-11-18 19:02:19.346] [info] [fix] Running database repairs
+[2020-11-18 19:02:20.556] [info] [db] Initialized DB at /home/taher/.config/Insomnia/insomnia.$TYPE.db
+[2020-11-18 19:02:20.558] [info] Init responses DB
+[2020-11-18 19:02:20.561] [info] [localstorage] Initialized at /home/taher/.config/Insomnia/localStorage
+[2020-11-18 19:02:22.043] [info] [main] Loading file:///usr/share/insomnia/app.asar/renderer.html
+[2020-11-18 19:02:22.130] [info] [ga] Non-interactive General, Updated, 2020.4.2
+[2020-11-18 19:02:22.251] [info] [ga] Queued event [
+  { name: 't', value: 'event' },
+  { name: 'ec', value: 'General' },
+  { name: 'ea', value: 'Updated' },
+  { name: 'ni', value: '1' },
+  { name: 'el', value: '2020.4.2' }
+]
+[2020-11-18 19:02:22.672] [info] [updater] Updater not running platform=linux dev=false

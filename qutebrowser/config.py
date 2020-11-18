@@ -11,12 +11,13 @@
 #   qute://help/settings.html
 
 # Uncomment this to still load settings configured via autoconfig.yml
-# config.load_autoconfig()
+config.load_autoconfig()
 
 # Aliases for commands. The keys of the given dictionary are the
 # aliases, while the values are the commands they map to.
 # Type: Dict
-c.aliases = {'cups': 'open -t http://localhost:631', 'q': 'quit', 'w': 'session-save', 'whatsapp': 'open -t web.whatsapp.com', 'wq': 'quit --save', 'budget': 'https://docs.google.com/spreadsheets/d/1-5Mu3O-MFH-F4_vxzNtWB7cKMJhd6i6MiKAtAwD-ZOs/edit#gid=0'}
+c.aliases = {'cups': 'open -t http://localhost:631', 'q': 'quit', 'w': 'session-save', 'whatsapp': 'open -t web.whatsapp.com',
+             'wq': 'quit --save', 'budget': 'https://docs.google.com/spreadsheets/d/1-5Mu3O-MFH-F4_vxzNtWB7cKMJhd6i6MiKAtAwD-ZOs/edit#gid=0'}
 
 # Load a restored tab as soon as it takes focus.
 # Type: Bool
@@ -74,7 +75,8 @@ config.set('content.cookies.accept', 'all', 'devtools://*')
 # between 5.12 and 5.14 (inclusive), changing the value exposed to
 # JavaScript requires a restart.
 # Type: FormatString
-config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/{webkit_version} (KHTML, like Gecko) {upstream_browser_key}/{upstream_browser_version} Safari/{webkit_version}', 'https://web.whatsapp.com/')
+config.set('content.headers.user_agent',
+           'Mozilla/5.0 ({os_info}) AppleWebKit/{webkit_version} (KHTML, like Gecko) {upstream_browser_key}/{upstream_browser_version} Safari/{webkit_version}', 'https://web.whatsapp.com/')
 
 # User agent to send.  The following placeholders are defined:  *
 # `{os_info}`: Something like "X11; Linux x86_64". * `{webkit_version}`:
@@ -90,7 +92,8 @@ config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/{w
 # between 5.12 and 5.14 (inclusive), changing the value exposed to
 # JavaScript requires a restart.
 # Type: FormatString
-config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}; rv:71.0) Gecko/20100101 Firefox/71.0', 'https://accounts.google.com/*')
+config.set('content.headers.user_agent',
+           'Mozilla/5.0 ({os_info}; rv:71.0) Gecko/20100101 Firefox/71.0', 'https://accounts.google.com/*')
 
 # User agent to send.  The following placeholders are defined:  *
 # `{os_info}`: Something like "X11; Linux x86_64". * `{webkit_version}`:
@@ -106,7 +109,8 @@ config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}; rv:71.0) Gecko
 # between 5.12 and 5.14 (inclusive), changing the value exposed to
 # JavaScript requires a restart.
 # Type: FormatString
-config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99 Safari/537.36', 'https://*.slack.com/*')
+config.set('content.headers.user_agent',
+           'Mozilla/5.0 ({os_info}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99 Safari/537.36', 'https://*.slack.com/*')
 
 # User agent to send.  The following placeholders are defined:  *
 # `{os_info}`: Something like "X11; Linux x86_64". * `{webkit_version}`:
@@ -122,7 +126,8 @@ config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/53
 # between 5.12 and 5.14 (inclusive), changing the value exposed to
 # JavaScript requires a restart.
 # Type: FormatString
-config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}; rv:71.0) Gecko/20100101 Firefox/71.0', 'https://docs.google.com/*')
+config.set('content.headers.user_agent',
+           'Mozilla/5.0 ({os_info}; rv:71.0) Gecko/20100101 Firefox/71.0', 'https://docs.google.com/*')
 
 # User agent to send.  The following placeholders are defined:  *
 # `{os_info}`: Something like "X11; Linux x86_64". * `{webkit_version}`:
@@ -138,7 +143,8 @@ config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}; rv:71.0) Gecko
 # between 5.12 and 5.14 (inclusive), changing the value exposed to
 # JavaScript requires a restart.
 # Type: FormatString
-config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}; rv:71.0) Gecko/20100101 Firefox/71.0', 'https://drive.google.com/*')
+config.set('content.headers.user_agent',
+           'Mozilla/5.0 ({os_info}; rv:71.0) Gecko/20100101 Firefox/71.0', 'https://drive.google.com/*')
 
 # Load images automatically in web pages.
 # Type: Bool
@@ -196,4 +202,5 @@ c.url.open_base_url = True
 # the search engine name to the search term, e.g. `:open google
 # qutebrowser`.
 # Type: Dict
-c.url.searchengines = {'DEFAULT': 'https://duckduckgo.com/?q={}', 'am': 'https://amazon.in/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords={}', 'arch': 'https://wiki.archlinux.org/index.php?search={}', 'fk': 'https://www.flipkart.com/search?q={}', 'g': 'https://google.com/search?q={}', 'gd': 'https://drive.google.com/drive/u/{}/my-drive', 'gm': 'https://mail.google.com/mail/u/{}/#inbox', 'pkt': 'https://www.packtpub.com/catalogsearch/result/?q={}', 'to': 'https://1337x.to/search/{}/1/', 'y': 'https://youtube.com/results?search_query={}'}
+c.url.searchengines = {'DEFAULT': 'https://duckduckgo.com/?q={}', 'am': 'https://amazon.in/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords={}', 'arch': 'https://wiki.archlinux.org/index.php?search={}', 'fk': 'https://www.flipkart.com/search?q={}', 'g': 'https://google.com/search?q={}',
+                       'gd': 'https://drive.google.com/drive/u/{}/my-drive', 'gm': 'https://mail.google.com/mail/u/{}/#inbox', 'pkt': 'https://www.packtpub.com/catalogsearch/result/?q={}', 'to': 'https://1337x.to/search/{}/1/', 'y': 'https://youtube.com/results?search_query={}'}

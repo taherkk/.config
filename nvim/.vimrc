@@ -21,6 +21,7 @@ call plug#begin('~/.local/share/nvim/plugged')
   "Plug 'preservim/nerdtree', {'on': 'NERDTreeToggle'}
   Plug 'itchyny/lightline.vim'
   Plug 'gruvbox-material/vim', {'as': 'gruvbox-material'}
+	Plug 'deoplete-plugins/deoplete-jedi'
 
 call plug#end()
 "}}}

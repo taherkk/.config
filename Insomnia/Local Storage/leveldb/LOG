@@ -1,3 +1,3 @@
-2020/03/25-16:55:23.270 150902 Reusing MANIFEST leveldb/MANIFEST-000001
-2020/03/25-16:55:23.273 150902 Recovering log #3
-2020/03/25-16:55:23.275 150902 Reusing old log leveldb/000003.log 
+2020/11/18-19:02:21.672 1ae1 Reusing MANIFEST /home/taher/.config/Insomnia/Local Storage/leveldb/MANIFEST-000001
+2020/11/18-19:02:21.781 1ae1 Recovering log #3
+2020/11/18-19:02:21.782 1ae1 Reusing old log /home/taher/.config/Insomnia/Local Storage/leveldb/000003.log 
