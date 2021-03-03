@@ -1,0 +1,6 @@
+font:
+  ubuntu:
+    family: monospace
+    style: regular
+
+  size: 11
