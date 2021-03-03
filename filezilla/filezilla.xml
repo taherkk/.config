@@ -81,7 +81,7 @@
 		<Setting name="Window position and size">0 0 0 1366 656 </Setting>
 		<Setting name="Splitter positions (v2)">184 -87 500000000 100 100 500000000</Setting>
 		<Setting name="Local filelist sortorder">0 0</Setting>
-		<Setting name="Remote filelist sortorder">1 4</Setting>
+		<Setting name="Remote filelist sortorder">1 0</Setting>
 		<Setting name="Time Format">0</Setting>
 		<Setting name="Date Format">0</Setting>
 		<Setting name="Show message log">1</Setting>
@@ -92,7 +92,7 @@
 		<Setting name="Custom file associations" />
 		<Setting name="Comparison mode">1</Setting>
 		<Setting name="Comparison threshold">1</Setting>
-		<Setting name="Site Manager position">0 235 89 896 589 </Setting>
+		<Setting name="Site Manager position">0 235 80 896 589 </Setting>
 		<Setting name="Icon theme">opencrystal</Setting>
 		<Setting name="Icon scale">100</Setting>
 		<Setting name="Timestamp in message log">0</Setting>
@@ -139,11 +139,11 @@
 		<Setting name="Tab data">
 			<Tabs>
 				<Tab connected="1" selected="1">
-					<Host>192.168.1.10</Host>
-					<Port>21</Port>
+					<Host>192.168.1.11</Host>
+					<Port>2221</Port>
 					<Protocol>0</Protocol>
 					<Type>0</Type>
-					<User>homecloud</User>
+					<User>android</User>
 					<Logontype>2</Logontype>
 					<TimezoneOffset>0</TimezoneOffset>
 					<PasvMode>MODE_DEFAULT</PasvMode>
@@ -151,8 +151,8 @@
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Site></Site>
-					<RemotePath>1 0</RemotePath>
-					<LocalPath>/home/taher/</LocalPath>
+					<RemotePath>1 0 4 DCIM 6 Camera</RemotePath>
+					<LocalPath>/home/taher/Workspace/kktjewel/2021-01-20/</LocalPath>
 				</Tab>
 			</Tabs>
 		</Setting>
