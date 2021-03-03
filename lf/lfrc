@@ -58,6 +58,7 @@ map gM cd /mnt
 map gs cd ~/.scripts
 map gtmp cd /tmp
 map gr cd /
+map gw cd ~/Workspace
 map g/ cd /
 map g? cd /usr/share/doc/ranger
 map gtor cd ~/torrents
@@ -165,4 +166,11 @@ cmd bulk-rename ${{
     done
     rm $old $new
     lf -remote "send $id unselect"
+}}
+
+cmd copy_filename ${{
+  for file in $fx;do
+    files+=${file}\\n
+  done
+  printf $files | xclip -selection clipboard
 }}

@@ -202,7 +202,7 @@ set tabstop=2 shiftwidth=2 softtabstop=2
 set autoindent copyindent smartindent
 set nocompatible
 set wildmenu
-set clipboard+=unnamedplus
+set clipboard^=unnamed,unnamedplus
 set showcmd       " display incomplete command
 set autoread      " Reload files changed outside Vim
 set linebreak " Wraps the whole word at the end of the line and not just a part of it.

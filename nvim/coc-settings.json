@@ -44,5 +44,13 @@
   "explorer.keyMappings.global": {
     "<cr>": ["expandable?", "expand", "open"],
     "v": "open:vsplit"
-  }
+  },
+  // coc-python
+  "python.autoUpdateLanguageServer": true,
+  "python.autoComplete.extraPaths": [
+    "/lib/python3.8/",
+    "/usr/lib/python3.8"
+  ],
+  "python.jediPath": "/home/taher/.local/lib/python3.8/site-packages/jedi",
+  "coc.preferences.extensionUpdateCheck": "daily"
 }

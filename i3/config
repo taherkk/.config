@@ -118,10 +118,10 @@ bindsym Shift+XF86AudioRaiseVolume exec pulsemixer --change-volume 20; exec pkil
 #}}}
 
 # Brightness {{{
-bindsym XF86MonBrightnessUp exec brightness 2
-bindsym Shift+XF86MonBrightnessUp exec brightness 10
-bindsym XF86MonBrightnessDown exec brightness -2
-bindsym Shift+XF86MonBrightnessDown exec brightness -10
+bindsym XF86MonBrightnessUp exec brightness 1
+bindsym Shift+XF86MonBrightnessUp exec brightness 5
+bindsym XF86MonBrightnessDown exec brightness -1
+bindsym Shift+XF86MonBrightnessDown exec brightness -5
 #}}}
 
 # Window Bindings {{{

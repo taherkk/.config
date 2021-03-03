@@ -19,4 +19,7 @@ youtube-viewer
 ./kdenliverc
 ./QtProject.conf
 ./user-dirs.dirs
-
+mpv/watch_later
+libreoffice
+inkscape
+evince
