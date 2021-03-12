@@ -172,5 +172,7 @@ cmd copy_filename ${{
   for file in $fx;do
     files+=${file}\\n
   done
+  files=$(echo $files | sed -r 's/(.*)\\n$/\1/p')
   printf $files | xclip -selection clipboard
+  printf $files | xclip
 }}

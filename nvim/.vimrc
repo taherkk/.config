@@ -18,7 +18,7 @@ call plug#begin('~/.local/share/nvim/plugged')
   endif
   Plug 'neoclide/coc.nvim', {'branch': 'release'}
   let g:coc_global_extensions = ['coc-json', 'coc-tsserver', 'coc-html', 'coc-prettier', 'coc-emmet']
-  "Plug 'preservim/nerdtree', {'on': 'NERDTreeToggle'}
+  Plug 'preservim/nerdtree', {'on': 'NERDTreeToggle'}
   Plug 'itchyny/lightline.vim'
   Plug 'gruvbox-material/vim', {'as': 'gruvbox-material'}
 	Plug 'deoplete-plugins/deoplete-jedi'
@@ -37,14 +37,8 @@ colorscheme gruvbox-material
 "}}}
 
 " NerdTree{{{
-"map <C-n> :NERDTreeToggle<CR>
+map <C-n> :NERDTreeToggle<CR>
 "}}}
-
-" coc-explorer{{{
-nmap <c-n> :CocCommand explorer<CR>
-nmap <c-l> :CocCommand explorer --preset floating<CR>
-autocmd BufEnter * if (winnr("$") == 1 && &filetype == 'coc-explorer') | q | endif
-" }}}
 
 "Coc Config {{{
 
